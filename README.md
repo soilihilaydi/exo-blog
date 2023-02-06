@@ -1,2 +1,3 @@
 # exo-blog
-exercice basé sur l api rest et manga db
+
+exercice avec node et le framework express  connectée a une base de donnée avec mongo db 
